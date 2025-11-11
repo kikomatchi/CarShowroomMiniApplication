@@ -1,6 +1,6 @@
-Car Showroom Mini Application
+CLI-Based Python applicatoan
 
-A CLI-based Python application for managing and analyzing a car and general use showroom database using MySQL and pandas.
+A CLI-based Python application for managing and analyzing a data and general use of database using MySQL and pandas.
 
 ---
 
@@ -14,6 +14,13 @@ Features
 ---
 
 Setup Instructions
+
+Add .env file for credentials and database information with this inside:
+
+DB_HOST=your_host
+DB_USER=your_user
+DB_PASSWORD=your_Password
+DB_NAME=you_database
 
 1. Clone the repository:
    ```bash
